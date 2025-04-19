@@ -1,0 +1,34 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    border: none;
+    border-radius: 17px;
+    padding: 10px;
+    background-color: hotpink;
+    margin: 10px;
+}
+input{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+p{
+    margin: 0 30px 10px;
+    text-align: center;
+}
+h1{
+    margin: 50px auto 10px;
+}
+img{
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+#kociciRozhodnuti2{
+    margin-top: 10px;
+}
